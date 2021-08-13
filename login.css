@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cinzel&family=Courgette&family=Exo+2:wght@227&family=Parisienne&family=Quicksand&family=Satisfy&display=swap');
+/*font-family: 'Amatic SC', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Courgette', cursive;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Satisfy', cursive;*/
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html{
+height:100%;
+}
+body
+{
+    text-align:center;
+    background: linear-gradient(to top, #000000b2 10%, #acc7cc 98%);
+}
+
+header 
+{
+font-family: 'Exo 2', sans-serif;
+text-shadow: 0 0 10px rgb(243, 243, 243);
+color:rgb(0, 0, 0);
+font-size: 80px;
+}
+main
+{
+font-family:'Parisienne', cursive;
+font-size: 35px;
+}
+article
+ {
+font-family: 'Cinzel', serif;
+
+color:rgb(0, 0, 0);
+font-size: 30px;
+}
+#Username
+{
+color:rgb(214, 202, 202);
+font-family:'Quicksand', sans-serif;
+font-size:30px;      
+}
+#Usernamebox
+{
+font-size:large;
+background-color:transparent;
+outline:none;
+border-top:none;
+border-right:none;
+border-left:none;
+border-bottom:solid rgb(0, 0, 0) 1px;
+padding-left: 20px;
+}
+#Password
+{
+color:rgb(214, 202, 202);
+padding-left:10px; 
+font-family:'Quicksand', sans-serif;
+font-size:30px;
+}
+#Passwordbox
+{
+font-size: large;
+background-color: transparent;
+outline: none;
+border-top: none;
+border-left: none;
+border-right: none;
+border-bottom: solid rgb(0, 0, 0) 1px;
+padding-left:23px;
+  
+}
+#Login
+{ 
+font-family:'Cinzel', serif;
+font-size:30px;
+background-color: transparent;
+color:  rgb(171, 199, 202);
+border:none;
+}
+#new
+ {
+padding-top:40px;     
+padding-bottom:20px;       
+font-family: 'Cinzel', serif;
+font-size: 35px;
+
+color:rgb(0, 0, 0);
+}
+#Signup
+{  
+font-family: 'Cinzel', serif;
+font-size: 30px;
+background-color: transparent;
+color:  rgb(171, 199, 202);
+border:none;
+}

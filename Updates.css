@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cinzel&family=Courgette&family=Exo+2:wght@227&family=Parisienne&family=Quicksand&family=Satisfy&display=swap');
+/*font-family: 'Amatic SC', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Courgette', cursive;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Satisfy', cursive;*/
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html{
+height:100%;
+}
+body
+{
+    background: linear-gradient(to top, #00000042 10%, #acc7cc94 98%);
+}
