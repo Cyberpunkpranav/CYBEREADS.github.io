@@ -23,6 +23,9 @@ body {
   text-align: center;
   font-family: "Courgette", cursive;
   font-size: 5em;
+  background: -webkit-linear-gradient(rgb(155, 35, 235), rgb(189, 34, 189));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .Heading2 {
   text-align: center;
