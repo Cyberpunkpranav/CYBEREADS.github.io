@@ -149,22 +149,17 @@ ul li a {
 .Current-Affairs {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  padding: 5px 132px;
-  padding-left: 90px;
-  padding-right: 174px;
+  padding: 0.1% 8% 0.1% 12%;
 }
 .Feed {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  padding: 5px 246px;
+  padding: 0.1% 20% 0.1% 20%;
 }
 .News {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 110px;
-  padding-right: 250px;
+  padding: 0.1% 10% 0.1% 10%;
 }
 .Updates-iframe {
   height: 100%;
